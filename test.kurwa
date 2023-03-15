@@ -1,0 +1,9 @@
+funkcja ruchanie() {
+    jeżeli (1 + 3 == 2) {
+        konsola.log("sex")
+    } w przeciwnym razie {
+        konsola.log("amogus")
+    }
+}
+
+ruchanie()
