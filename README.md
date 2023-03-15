@@ -16,3 +16,20 @@ I'll make a syntax highlighter later
 | if       | jeżeli             |
 | else     | w przeciwnym razie |
 | console  | konsola            |
+| const    | stała              |
+| let      | pozwól             |
+| for      | dla                |
+| while    | podczas gdy        |
+| switch   | przełącznik        |
+| case     | przypadek          |
+| break    | rozjeb             |
+| catch    | złap               |
+| finally  | w końcu            |
+| new      | nowy               |
+| this     | to                 |
+| typeof   | typ                |
+| delete   | usuń               |
+| in       | w                  |
+| return   | oddaj              |
+| throw    | wyjeb              |
+| Error    | Błąd               |

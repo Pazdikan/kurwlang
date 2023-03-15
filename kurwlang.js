@@ -12,10 +12,28 @@ fs.readFile("./test.kurwa", "utf8", (err, data) => {
 
   const translations = {
     funkcja: "function",
-    zwróć: "return",
     jeżeli: "if",
     konsola: "console",
     "w przeciwnym razie": "else",
+    stała: "const",
+    pozwól: "let",
+    dla: "for",
+    "podczas gdy": "while",
+    przełącznik: "switch",
+    przypadek: "case",
+    rozjeb: "break",
+    kontynuuj: "continue",
+    spróbuj: "try",
+    złap: "catch",
+    "w końcu": "finally",
+    nowy: "new",
+    to: "this",
+    typ: "typeof",
+    usuń: "delete",
+    w: "in",
+    oddaj: "return",
+    wyjeb: "throw",
+    Błąd: "Error",
   };
 
   const pattern = Object.keys(translations).join("|");
